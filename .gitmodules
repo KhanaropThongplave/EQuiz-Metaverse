@@ -1,0 +1,3 @@
+[submodule "EQuiz-Frontend"]
+	path = EQuiz-Frontend
+	url = https://github.com/KhanaropThongplave/EQuiz-Frontend.git
