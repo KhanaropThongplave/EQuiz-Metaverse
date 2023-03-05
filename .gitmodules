@@ -4,3 +4,6 @@
 [submodule "EQuiz-Backend"]
 	path = EQuiz-Backend
 	url = https://github.com/KhanaropThongplave/EQuiz-Backend.git
+[submodule "EQuiz-SmartContract"]
+	path = EQuiz-SmartContract
+	url = https://github.com/KhanaropThongplave/EQuiz-SmartContract.git
